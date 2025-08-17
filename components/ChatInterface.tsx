@@ -278,7 +278,7 @@ export function ChatInterface() {
               <p className="text-gray-600 mb-8 max-w-lg mx-auto leading-relaxed">
                 This assistant is based on Brian Scott's public content.
                 Responses are for informational purposes only and may not be
-                100% accurate. All intellectual property belongs to Dan Buglio.
+                100% accurate. All intellectual property belongs to Brian Scott.
               </p>
 
               {/* Feature highlights */}
@@ -315,7 +315,7 @@ export function ChatInterface() {
                     Video Resources
                   </h3>
                   <p className="text-sm text-gray-600">
-                    Get specific video guidance from joe's content library
+                    Get specific video guidance from Scott's content library
                   </p>
                 </div>
               </div>
@@ -338,7 +338,7 @@ export function ChatInterface() {
                 <p className="text-gray-600 mb-6 max-w-lg mx-auto text-sm leading-relaxed">
                   This assistant is based on Brian Scott's public content.
                   Responses are for informational purposes only and may not be
-                  100% accurate. All intellectual property belongs to Dan Buglio.
+                  100% accurate. All intellectual property belongs to Brian Scott.
                 </p>
 
                 {/* Feature highlights */}
@@ -375,7 +375,7 @@ export function ChatInterface() {
                       Video Resources
                     </h4>
                     <p className="text-xs text-gray-600">
-                      Get specific video guidance from joe's content library
+                      Get specific video guidance from Scott's content library
                     </p>
                   </div>
                 </div>
