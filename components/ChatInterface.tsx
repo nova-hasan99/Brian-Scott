@@ -19,6 +19,7 @@ import {
   HeartCrack,
   Handshake,
   Youtube,
+  Atom,
 } from 'lucide-react';
 
 
@@ -297,13 +298,13 @@ export function ChatInterface() {
 
                 <div className="text-center p-4">
                   <div className="w-12 h-12 bg-green-100 rounded-2xl flex items-center justify-center mx-auto mb-3">
-                    <Handshake className="w-6 h-6 text-green-600" />
+                    <Atom className="w-6 h-6 text-green-600" />
                   </div>
                   <h3 className="font-semibold text-gray-800 mb-1">
-                    Parenting guidance
+                    Reality Revolution
                   </h3>
                   <p className="text-sm text-gray-600">
-                    Expert advice and strategies to help parents raise children and build strong family relationships.
+                    Brian Scott’s podcast exploring quantum physics, transurfing, meditation, hypnosis, NLP, parallel realities and transformations.
                   </p>
                 </div>
 
@@ -357,13 +358,13 @@ export function ChatInterface() {
 
                   <div className="text-center p-3">
                     <div className="w-10 h-10 bg-green-100 rounded-xl flex items-center justify-center mx-auto mb-2">
-                      <Handshake className="w-5 h-5 text-green-600" />
+                      <Atom className="w-5 h-5 text-green-600" />
                     </div>
                     <h4 className="font-semibold text-gray-800 mb-1 text-sm">
-                      Parenting guidance
+                      Reality Revolution
                     </h4>
                     <p className="text-xs text-gray-600">
-                      Expert advice and strategies to help parents raise children and build strong family relationships.
+                      Brian Scott’s podcast exploring quantum physics, transurfing, meditation, hypnosis, NLP, parallel realities and transformations.
                     </p>
                   </div>
 
